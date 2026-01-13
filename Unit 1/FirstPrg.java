@@ -17,3 +17,14 @@ public class FirstPrg
     System.out.println("i1 " + i1);
 }
 }
+
+//Output
+/*
+꿿
+T
+Binary 2
+Octal 7
+Hexa 15
+d 112678
+i1 10
+*/
