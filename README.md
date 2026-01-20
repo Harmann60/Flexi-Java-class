@@ -57,7 +57,7 @@ This isn't just code. It's an **art form**. This repository contains the source 
 ### 🧠 THE BRAIN (Tech Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,rust,c,cpp,linux,vim,git,arduino,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
 </div>
 
 ---
