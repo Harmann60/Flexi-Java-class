@@ -9,11 +9,16 @@ public class GUI extends JFrame
         JLabel password = new JLabel("Passowrd");
         JTextField tname = new JTextField(20);
         JTextField tpass = new JTextField(20);
+        JButton submit = new JButton("Submit");
+        JButton reset = new JButton("Reset");
         setLayout(new FlowLayout());
         add(uname);
         add(tname);
         add(password);
         add(tpass);
+        add(submit);
+        add(reset);
+        setLocation(400,200);
         setSize(400, 200);
         setVisible(true);
   }
