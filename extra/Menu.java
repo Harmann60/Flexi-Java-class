@@ -22,4 +22,5 @@ public class Menu extends JFrame
     }
     public static void main(String[] args)
     {
-      
+      new Menu("HERE ITS GOES");
+    }
