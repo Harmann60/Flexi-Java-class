@@ -52,9 +52,4 @@ public class Box
       this.length=length;
         }
     
-    class ShipmentCost extends Box
-  {
-    ShipmentCost();
-    private double cost;
-  }
-    
+ 
