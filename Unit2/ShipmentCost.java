@@ -1,5 +1,4 @@
-
-}package unit2;
+package unit2;
 public class ShipmentCost extends Box
   {
     private double cost;
