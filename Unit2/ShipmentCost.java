@@ -1,4 +1,5 @@
-package unit2;
+
+}package unit2;
 public class ShipmentCost extends Box
   {
     private double cost;
@@ -29,4 +30,5 @@ public class ShipmentCost extends Box
     {
       return this.volume()*this.cost;
     }
+  }
       
