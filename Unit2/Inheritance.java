@@ -8,5 +8,5 @@ public class Inheritance
       ShipmentCost c3=new ShipmentCost(c2);
       ShipmentCost c4=new ShipmentCost();
       System.out.println("Volume is :" +c2.volume());
-      Systemout.println("Total Shipping Cost is :" +c2.cal,cShipCost());
+      Systemout.println("Total Shipping Cost is :" +c2.calcShipCost());
     }
