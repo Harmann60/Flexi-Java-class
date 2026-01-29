@@ -29,13 +29,29 @@ public class Box
     }
     public double getWidth()
     {
+      return width;
     }
     public double getHeight()
     {
+      return height;
     }
     public double getLength()
     {
+      return length;
     }
+    public void setHeight(double height)
+    {
+      this.height=height;
+    }
+    public void setWidth
+    {
+      this.width=width;
+    }
+    public void setLength
+    {
+      this.length=length;
+        }
+    
     class ShipmentCost extends Box
   {
     ShipmentCost();
