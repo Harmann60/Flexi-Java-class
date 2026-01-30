@@ -26,3 +26,5 @@ public class GUI extends JFrame
   {
     new GUI("First GUI Program");
   }
+
+//basic Ui implementation 
