@@ -1,10 +1,13 @@
-public class expectationhandling
+public class garbage
 {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
         for(int i=1;i<=5;i++)
         {
             System.out.println(i);
-            Thread.sleep(2000);
+            try {
+                Thread.sleep(2000);
+            }
+            catch(Exception e){}
         }
     }
 }
